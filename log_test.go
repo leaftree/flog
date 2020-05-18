@@ -1,8 +1,9 @@
 package flog
 
 import (
-	"fylos/flog/internal"
 	"testing"
+
+	"github.com/leaftree/flog/internal"
 )
 
 func TestInfo(t *testing.T) {
